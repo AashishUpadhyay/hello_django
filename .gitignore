@@ -1,0 +1,9 @@
+env
+
+db.sqlite3
+
+static_collected
+
+.vscode/settings.json
+
+.DS_Store
